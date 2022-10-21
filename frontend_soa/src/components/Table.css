@@ -1,0 +1,21 @@
+table{
+   border-collapse: collapse;
+   background-color: rgb(71, 99, 87);
+   max-width: 900px;
+   width: 100%;
+   margin: 2rem auto;
+   color: rgb(241, 227, 209);
+
+}
+table th,table td{
+    border:1px solid rgb(19, 27, 2);
+    padding: 6px;
+    text-align: center;
+    font-size: 19px;
+  text-shadow: 4px 4px 4px rgb(5, 3, 2);
+}
+table thead{
+    background-color: rgb(201, 179, 151);
+    color: rgb(22, 29, 26);
+    
+}
